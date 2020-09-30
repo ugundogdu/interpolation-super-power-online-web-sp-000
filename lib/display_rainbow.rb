@@ -14,4 +14,3 @@ def display_rainbow
   puts "I is #{indigo}"
   puts "V is #{violet}"
 end
-end
